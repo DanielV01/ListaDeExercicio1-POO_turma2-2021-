@@ -1,6 +1,4 @@
-package conta;
-
-import correntista.Correntista;
+package classes.java;
 
 public class Conta {
 	private String nome;

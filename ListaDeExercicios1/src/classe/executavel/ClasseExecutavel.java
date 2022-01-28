@@ -1,7 +1,7 @@
 package classe.executavel;
 
-import conta.Conta;
-import correntista.Correntista;
+import classes.java.Conta;
+import classes.java.Correntista;
 
 public class ClasseExecutavel {
 
