@@ -74,7 +74,7 @@ public class Conta {
 	}
 	
 	
-	@Override
+	
 	public String toString() {
 		return "[ [Nome: " + nome + "], [idade: " + idade + "], [Número do CPF: " + cpf + "], [Número do RG: " + rg + "], [Número do telefone: " + telefone 
 				+ "] ]";
